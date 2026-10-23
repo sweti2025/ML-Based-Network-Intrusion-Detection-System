@@ -1,6 +1,6 @@
  <div align="center">
 
-<img src=Neon Cybersecurity README Dashboard.png" alt="ML-Based Network Intrusion Detection System Banner" width="100%">
+<img src="Neon Cybersecurity README Dashboard.png" alt="ML-Based Network Intrusion Detection System Banner" width="100%">
 
 # 🛡️ ML-Based Network Intrusion Detection System
 
